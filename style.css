@@ -2,6 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
+  
   }
   
   textarea {
@@ -29,6 +30,7 @@ body {
     text-align: center;
     border-radius: 15px;
     font-size: 14px;
+
   }
   
   .row {
@@ -44,17 +46,17 @@ body {
   }
   
   .past {
-    background-color: #d3d3d3;
+    background-color: #f50c0c;
     color: white;
   }
   
   .present {
-    background-color: #ff6961;
+    background-color: #7e7777;
     color: white;
   }
   
   .future {
-    background-color: #77dd77;
+    background-color: #13a313;
     color: white;
   }
   
