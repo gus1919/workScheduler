@@ -7,3 +7,5 @@ Here is the live URL: https://gus1919.github.io/workScheduler/
 Here is the github repository:  https://github.com/gus1919/workScheduler.git
 
 Here is a screenshot of the page:
+
+![Screenshot (22)](https://user-images.githubusercontent.com/86876335/131217605-51ff72b0-34f9-40ca-ba7f-d4828c6951f3.png)
